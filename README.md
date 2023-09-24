@@ -1,0 +1,2 @@
+# Skin_disease_prediction
+Skin_disease_prediction Project
